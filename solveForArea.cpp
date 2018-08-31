@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-	int radius;
+	int radius = 0;
 	//Request input to determine Area and Circumference of a circle
 	cout << " Let's determine the Area and Circumference of a circle. " << endl;
 
