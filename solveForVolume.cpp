@@ -23,7 +23,7 @@ int main()
 
 	//Calculate the Volume of the box
 	// V = H x W x L
-	cout << " The volume of the box = " << Height*Width*Length << " cubic inches." <<endl;
+	cout << " The volume of the box = " << Height * Width * Length << " cubic inches." <<endl;
 	
 	return 0;	
 
