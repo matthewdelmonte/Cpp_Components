@@ -20,7 +20,7 @@ Start:
 	cout << " Enter s = subtract, m = multiply, d = divide, anything else to add " << endl;
 	cin >> userSelection;
 
-//If then statement
+//If else statement
 	int result = 0;
 	if (userSelection == 's')
 	result = numb1 - numb2;
