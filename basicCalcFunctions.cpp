@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 
+Start:
 //Input first integer
 	int numb1 = 0;
 	cout << " Enter first number ";
@@ -33,6 +34,15 @@ int main()
 	result = numb1 + numb2;
 
 	cout << " The answer is " << result << endl;
+	
+	cout << " Do you wish to perform another operations (y or n)? " << endl;
+	char repeat = 'y';
+	cin >> repeat;
+
+	if (repeat == 'y')
+	goto Start;
+
+	cout << " Goodbye! " << endl;
 
 	return 0;
 }
