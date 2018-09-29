@@ -18,7 +18,6 @@ int main()
 	cin >> numb2;
 
 //Input arithemtic symbol
-	//char userSelection = '\0';
 	cout << " Enter s = subtract, m = multiply, d = divide, anything else to add " << endl;
 	cin >> userSelection;
 
