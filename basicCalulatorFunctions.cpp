@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-	char userSelection = 'x';
+	char userSelection = 'm';
 	do
 {
 //Input first integer
