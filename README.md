@@ -4,6 +4,7 @@
 - [CPP Standard Library](#CPP-Standard-Library)
 - [Namespace](#Namespace)
 - [Compiler](#Compiler)
+- [Content Out](#Content-Out)
 
 ## CPP Standard Library
 ```C++
@@ -22,3 +23,8 @@ g++ file.cpp -o file
 g++ -o hello hello.cpp
 ```
 
+## Content Out
+```C++
+std::cout << "Hello World! ";     // prints Hello World!
+cout << "Hello World! ";      // using Namespace, leave off std::
+```
