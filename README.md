@@ -1,5 +1,7 @@
 # CPP Components
 
+This repo is used to practice coding with C++
+
 ## Table of Contents
 - [CPP Standard Library](#CPP-Standard-Library)
 - [Namespace](#Namespace)
